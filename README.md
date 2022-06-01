@@ -26,8 +26,9 @@ Backend: <br>
 	 -Admin:+) Model: (Thắng) <br> 
           +) Controller: Lấy danh sách user, question và thống kê (Thắng) <br>
   
-Frontend: - Khởi tạo structure: (Thắng)
-	  - Route: +) Login : (Huy) <br>
+Frontend: - Khởi tạo structure: (Thắng) <br>
+	  - Route: <br>
+	  +) Login : (Huy) <br>
 	           +) Register: (Huy) <br>
 	           +) Dashbroad: (Thắng) <br>
 	           +) Admin: (Thắng) <br>
